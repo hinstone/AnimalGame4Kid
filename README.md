@@ -1,4 +1,4 @@
-# AnimalGame4Kit
+# AnimalGame4Kid
 Game of Animal name remember using Partii2go speech recognition
 
 # รายการคำศัพท์
