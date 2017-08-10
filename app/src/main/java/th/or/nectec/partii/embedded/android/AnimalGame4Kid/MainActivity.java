@@ -12,7 +12,6 @@ import android.widget.TextView;
 
 import java.util.Random;
 
-import th.or.nectec.partii.embedded.android.AnimalGane4Kid.R;
 import th.or.nectec.partii.embedded.android.EmbeddedUtils.ModelUtil;
 import th.or.nectec.partii.embedded.android.RecognitionListener;
 import th.or.nectec.partii.embedded.android.SpeechRecognizer;
@@ -65,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     boolean flag = true;
     private String decodedStr = "";
     ModelUtil mUtil = null;
-    String APIKEY = "YOUR Partii2go APIKEY";
+    String APIKEY = "2go-apDSdUKRdt";
 
 
     @Override
