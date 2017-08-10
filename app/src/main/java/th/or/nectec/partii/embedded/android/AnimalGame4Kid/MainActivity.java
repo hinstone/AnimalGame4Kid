@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity implements RecognitionListen
     boolean flag = true;
     private String decodedStr = "";
     ModelUtil mUtil = null;
-    String APIKEY = "2go-apDSdUKRdt";
+    String APIKEY = "YOUR Partii2go APIKEY";
 
 
     @Override
